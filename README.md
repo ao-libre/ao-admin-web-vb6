@@ -1,3 +1,8 @@
+## Administrador Web
+Entrar a [http://localhost:3000](http://localhost:3000) para ver el panel de administracion web del servidor
+<img src="https://cdn.discordapp.com/attachments/479064501115944962/623869451221073920/unknown.png">
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
